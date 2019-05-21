@@ -19,3 +19,9 @@ Music
 Pictures
 Public
 .cups
+.fzf
+.fzf.bash
+.fzf.zsh
+.config/fish/fish_variables
+.config/fish/functions/fish_user_key_bindings.fish
+.config/fish/functions/fzf_key_bindings.fish
