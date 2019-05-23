@@ -4,7 +4,14 @@
 .cache/fish
 .CFUserTextEncoding
 .config/base16_shell
+.config/fish/fish_variables
+.config/fish/functions/fish_user_key_bindings.fish
+.config/fish/functions/fzf_key_bindings.fish
+.cups
 .DS_Store
+.fzf
+.fzf.bash
+.fzf.zsh
 .local/share/fish
 .Trash
 .viminfo
@@ -18,10 +25,3 @@ Movies
 Music
 Pictures
 Public
-.cups
-.fzf
-.fzf.bash
-.fzf.zsh
-.config/fish/fish_variables
-.config/fish/functions/fish_user_key_bindings.fish
-.config/fish/functions/fzf_key_bindings.fish
