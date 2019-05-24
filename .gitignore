@@ -4,8 +4,6 @@
 .cache/fish
 .CFUserTextEncoding
 .config/base16_shell
-.config/fish/fish_variables
-.config/fish/functions/fish_user_key_bindings.fish
 .config/fish/functions/fzf_key_bindings.fish
 .cups
 .DS_Store
@@ -13,6 +11,7 @@
 .fzf.bash
 .fzf.zsh
 .local/share/fish
+.ssh
 .Trash
 .viminfo
 .vimrc_background
