@@ -4,13 +4,17 @@
 .cache/fish
 .CFUserTextEncoding
 .config/base16_shell
+.config/configstore/update-notifier-npm.json
 .config/fish/functions/fzf_key_bindings.fish
 .cups
 .DS_Store
 .fzf
 .fzf.bash
 .fzf.zsh
+.lesshst
 .local/share/fish
+.n
+.node_repl_history
 .ssh
 .Trash
 .viminfo
