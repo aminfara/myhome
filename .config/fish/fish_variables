@@ -22,6 +22,8 @@ SETUVAR _fish_abbr_gc:git\x20commit\x20\x2dv
 SETUVAR _fish_abbr_gc_21_:git\x20commit\x20\x2dv\x20\x2d\x2dammend
 SETUVAR _fish_abbr_gd:git\x20diff
 SETUVAR _fish_abbr_gl:git\x20pull
+SETUVAR _fish_abbr_glg:git\x20log\x20\x2d\x2dstat
+SETUVAR _fish_abbr_glog:git\x20log\x20\x2d\x2doneline\x20\x2d\x2ddecorate\x20\x2d\x2dcolor\x20\x2d\x2dgraph
 SETUVAR _fish_abbr_gst:git\x20status
 SETUVAR _fish_abbr_l:la
 SETUVAR fish_color_autosuggestion:586e75
