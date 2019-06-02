@@ -15,6 +15,7 @@
 .local/share/fish
 .n
 .node_repl_history
+.npm
 .ssh
 .Trash
 .viminfo
