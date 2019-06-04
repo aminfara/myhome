@@ -2,10 +2,16 @@
 .bash_history
 .bash_sessions
 .cache/fish
+.cache/fisher
 .CFUserTextEncoding
 .config/base16_shell
 .config/configstore/update-notifier-npm.json
+.config/fish/completions/fisher.fish
+.config/fish/functions/docker-compose.fish
+.config/fish/functions/docker.fish
+.config/fish/functions/fisher.fish
 .config/fish/functions/fzf_key_bindings.fish
+.config/fisher
 .cups
 .DS_Store
 .fzf
