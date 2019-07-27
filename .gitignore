@@ -21,6 +21,7 @@
 .fzf.zsh
 .lesshst
 .local/share/fish
+.myzsh
 .n
 .node_repl_history
 .npm
